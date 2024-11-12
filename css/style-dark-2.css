@@ -4692,7 +4692,7 @@ ul.social-icons-information a:hover {
 .intro-line {
   width: 231px;
   height: 10px;
-  background: #e84393;
+  background: #e2bc2b !important;
   margin: 6px 14px;
   text-align: center;
 }
@@ -4701,10 +4701,10 @@ ul.social-icons-information a:hover {
   font-family: "Rubik Doodle Shadow", system-ui;
   font-weight: bold;
   font-size: 24px;
-  color: #e84393;
-  border-right: 10px solid #e84393;
-  border-left: 10px solid #e84393;
-  border-bottom: 10px solid #e84393;
+  color: #e2bc2b !important;
+  border-right: 10px solid #e2bc2b !important;
+  border-left: 10px solid #e2bc2b !important;
+  border-bottom: 10px solid #e2bc2b !important;
   padding-bottom: 15px;
 }
 .res {
